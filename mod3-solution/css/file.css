@@ -1,0 +1,55 @@
+#header-nav{
+    background-color: rgb(169, 153, 184);
+    border-radius: 0;
+    border-width: 3px;
+    border-color: black;
+    min-height: 70px;
+    
+
+}
+
+.navbar-header{
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.navbar-header a:hover, .navbar-header a:focus{
+    text-decoration: none;
+   
+}
+
+.navbar-brand h1 {
+    height: 0%;
+    color: #4b7ab8;
+    font-size: 1.8em;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    line-height: .75;
+  }
+
+.menu-heading{
+    font-weight: bold;
+  }
+
+#nav-list a{
+    font-weight: bold;
+    text-align: center;
+    font-weight: bold;
+    color: #4b7ab8;  
+  }
+
+
+#nav-list a:hover {
+    background: white;
+    opacity: 0.8; 
+  }
+
+.row > div{
+    height: auto;
+    border: solid white;
+    border-width: 15px;
+    background-color:  rgb(144, 139, 150);
+    padding-left: 10px;
+    padding-right: 10px;
+       
+}
